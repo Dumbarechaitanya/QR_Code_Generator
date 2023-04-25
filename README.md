@@ -5,5 +5,9 @@ To make this project work You need to install libraries like
 
 
   1.pip install qrcode
+  
+  
   2.pip install pillow
+  
+  
   3.pip install python-resize-image
